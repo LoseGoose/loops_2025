@@ -4,10 +4,14 @@ fruits = ["apple", "banana", "cherry", "date"]
 
 # Challenge:
 # Use a for loop to print each fruit on a new line.
-
+for fruit in fruits:
+    print(fruit)
+# I just worked with loops
 
 # Given a list of school subjects:
 subjects = ["Math", "Science", "History", "Art"]
+for subject in subjects:
+    print(subject)
 
 # Challenge:
 # Use a for loop and range to print each subject along with its index:
